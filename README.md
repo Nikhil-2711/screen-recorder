@@ -63,8 +63,13 @@ Recommended browsers:
 - Brave
 - Opera
 
----
+---  
+## 🎥 Demo
 
+![Application Demo](assets/demo.gif)
+
+The application allows users to record their screen and microphone, preview the recording, and download it as a WebM file.
+---
 ## How to Run
 
 ### Option 1
